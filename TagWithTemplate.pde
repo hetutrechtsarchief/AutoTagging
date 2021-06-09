@@ -5,12 +5,12 @@ ArrayList<TextLine> textlines = new ArrayList();
 HashMap<String, Record> records = new HashMap();
 
 void setup() {
-  Table table = loadTable("tags.csv", "header");
+  Table table = loadTable("data/tags.csv", "header");
   for (TableRow row : table.rows()) {
     areas.add(new Area(row));
   }
 
-  table = loadTable("all-textlines-transkribus.csv", "header");
+  table = loadTable("data/private/all-textlines-transkribus.csv", "header");
   for (TableRow row : table.rows()) {
     textlines.add(new TextLine(row));
   }
@@ -48,7 +48,7 @@ void setup() {
     }
   }
 
-  saveTable(table, "data/table.csv");
+  saveTable(table, "data/private/table.csv");
 
   exit();
 }
