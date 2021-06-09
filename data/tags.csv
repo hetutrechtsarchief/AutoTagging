@@ -12,7 +12,7 @@ x,y,width,height,label,remove,recordOffset
 2271,1173,1062,81,In dienst getr.,In dienst getr.:,0
 3340,1167,752,90,Afgevoerd,Afgevoerd:,0
 46,822,2026,482,Opmerkingen,Opmerkingen:,-1
-419,392,1665,94,Kind1,Aantal kinderen:|(Beneden 18 jaar).|Voornamen:|Geb. datum,-1
+419,392,1665,94,Kind1,Aantal kinderen:|\(Beneden 18 jaar\).|Voornamen:|Geb. datum,-1
 416,479,1671,91,Kind2,,-1
 416,566,1671,84,Kind3,,-1
 410,641,1677,87,Kind4,,-1
