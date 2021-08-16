@@ -3,6 +3,7 @@ import java.awt.Rectangle;
 class Area extends Rectangle {
   String label,remove;
   int recordOffset;
+  int tplWidth, tplHeight;
   
   Area() {
   }
@@ -15,5 +16,7 @@ class Area extends Rectangle {
     this.label = row.getString("label");
     this.remove = row.getString("remove");
     this.recordOffset = row.getInt("recordOffset");
+    this.tplWidth = row.getInt("tplWidth");
+    this.tplHeight = row.getInt("tplHeight");
   }
 }

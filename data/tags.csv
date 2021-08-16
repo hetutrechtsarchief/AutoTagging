@@ -1,19 +1,19 @@
-x,y,width,height,label,remove,recordOffset
-2274,166,1526,106,Naam,Naam:,0
-2274,322,1529,105,Adres,Adres:,0
-2271,480,1062,100,Functie,Functie:,0
-2268,589,1065,87,Gewijzigd in,Gewijzigd in:,0
-2271,679,1066,87,Geb.datum,Geb.datum:,0
-2271,763,1069,84,Geb.plaats,Geb.plaats:,0
-2271,847,1066,74,Gehuwd/ongehuwd,Gehuwd of ongehuwd:,0
-2274,915,1059,93,Godsdienst,Godsdienst:,0
-2268,1005,1065,90,Burgerl. beroep:,Burgerl. beroep:,0
-2265,1092,1065,81,Pers. bewijs,Pers.bewijs:,0
-2271,1173,1062,81,In dienst getr.,In dienst getr.:,0
-3340,1167,752,90,Afgevoerd,Afgevoerd:,0
-46,822,2026,482,Opmerkingen,Opmerkingen:,-1
-419,392,1665,94,Kind1,Aantal kinderen:|\(Beneden 18 jaar\).|Voornamen:|Geb. datum,-1
-416,479,1671,91,Kind2,,-1
-416,566,1671,84,Kind3,,-1
-410,641,1677,87,Kind4,,-1
-413,722,1674,96,Kind5,,-1
+x,y,width,height,label,remove,recordOffset,tplWidth,tplHeight
+2274,166,1526,106,Naam,Naam:,0,4350,1370
+2274,322,1529,105,Adres,Adres:,0,4350,1370
+2271,480,1062,100,Functie,Functie:,0,4350,1370
+2268,589,1065,87,Gewijzigd in,Gewijzigd in:,0,4350,1370
+2271,679,1066,87,Geb.datum,Geb.datum:,0,4350,1370
+2271,763,1069,84,Geb.plaats,Geb.plaats:,0,4350,1370
+2271,847,1066,74,Gehuwd/ongehuwd,Gehuwd of ongehuwd:,0,4350,1370
+2274,915,1059,93,Godsdienst,Godsdienst:,0,4350,1370
+2268,1005,1065,90,Burgerl. beroep:,Burgerl. beroep:,0,4350,1370
+2265,1092,1065,81,Pers. bewijs,Pers.bewijs:,0,4350,1370
+2271,1173,1062,81,In dienst getr.,In dienst getr.:,0,4350,1370
+3340,1167,752,90,Afgevoerd,Afgevoerd:,0,4350,1370
+46,822,2026,482,Opmerkingen,Opmerkingen:,-1,4350,1370
+419,392,1665,94,Kind1,Aantal kinderen:|\(Beneden 18 jaar\).|Voornamen:|Geb. datum,-1,4350,1370
+416,479,1671,91,Kind2,,-1,4350,1370
+416,566,1671,84,Kind3,,-1,4350,1370
+410,641,1677,87,Kind4,,-1,4350,1370
+413,722,1674,96,Kind5,,-1,4350,1370
